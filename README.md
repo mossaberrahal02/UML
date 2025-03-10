@@ -29,7 +29,21 @@ These diagrams describe the static structure of a system. They focus on the elem
 - **Object Diagram**: Represents instances of objects and their relationships at a particular moment.
 - **Component Diagram**: Shows the physical components in a system and how they interact with each other.
 - **Deployment Diagram**: Displays the physical deployment of software components on hardware nodes.
-- **Composite Structure Diagram**: Focuses on the internal structure of a class or component and their interactions.
+- **Package Diagram**: Depict how packages and their elements have been organized, shows dependencies between packages and internal composition of packages.
+
+### 1.1. **Class Diagram**
+![Alt text](./diagramImages/ClassDiagram.png)
+
+### 1.2. **Object Diagram**
+![Alt text](./diagramImages/ObjectDiagram.png)
+### 1.3. **Component Diagram**
+![Alt text](./diagramImages/ComponentDiagram.png)
+### 1.4. **Deployment Diagram**
+![Alt text](./diagramImages/DeploymentDiagram.png)
+### 1.5. **Package Diagram**
+![Alt text](./diagramImages/PackageDiagram.png)
+
+
 
 ## 2. **Behavioral Diagrams**
 These diagrams capture the dynamic behavior of the system. They describe how the system interacts over time and responds to various events. Key types of behavioral diagrams include:
@@ -42,4 +56,6 @@ These diagrams capture the dynamic behavior of the system. They describe how the
 - **Interaction Overview Diagram**: A high-level diagram that represents the flow of control between different interactions or processes.
 - **Timing Diagram**: Used to model the behavior of objects in relation to time, showing changes in state or condition over time.
 
+The bellow picture will showcase these 2 diagram types
 ![Alt text](./UML-Diagrams.png)
+
